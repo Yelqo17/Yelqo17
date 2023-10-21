@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yelqo17
-- 👀 I’m interested in C++, Java, HTML, CSS, JavaScript, Java
+- 👀 I’m interested in C++, Java, HTML, CSS, JavaScript
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on softskills
 - 📫 How to reach me ???
